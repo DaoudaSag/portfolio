@@ -4,7 +4,7 @@ body {
     background-position: center center;
     background-attachment: fixed;
     background-size: cover;    
-    /* overflow-x: auto;  */
+    overflow-x: auto; 
     
 }
 
@@ -36,7 +36,7 @@ h1{
   margin: 3vw;
   box-shadow: 0vw 0vw 0.2vw 0.2vw #4083be;
   border: solid 0.1vw #3B71CA;
-  /* height: 90%; */
+
 }
 
 footer{
